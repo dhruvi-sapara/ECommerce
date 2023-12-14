@@ -1,0 +1,10 @@
+PASSWORD_REQUIRED = 'A password is required.'
+PASSWORD_MATCH_ERROR = "Password fields didn't match."
+USER_ACCOUNT_INACTIVE_ERROR = "User account is disabled."
+INCORRECT_CREDENTIALS = "Unable to log in with provided credentials."
+FIELD_REQUIRED_ERROR = "Both name and password are required fields."
+EMAIL_ALREADY_EXIST_ERROR = "This email is already in use."
+CONTACT_NUMBER_ALREADY_EXIST_ERROR = "This contact number already exists"
+NAME_ALREADY_EXIST_ERROR = "This name is already in use."
+CONTACT_NUMBER_LENGTH_ERROR = "Contact number should have at least 10 digits"
+CONTACT_NUMBER_VALUE_ERROR = "Contact number should only contain digits"
